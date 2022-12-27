@@ -10,7 +10,7 @@ ld $t3, Dir_data($zero)
 
 ld $t1, num($zero)
 sd $t1, 0($t3) # guardamos el numero en DATA
-daddi $t1, $zero, 1 # 1 = codigo para imprimir entero sin signo
- sd $t1,0($t2) # imprimo
+daddi $t1, $zero, 1 # 1 = codigo para imprimir entero sin singo
+sd $t1,0($t2) # imprimo
 
 halt
