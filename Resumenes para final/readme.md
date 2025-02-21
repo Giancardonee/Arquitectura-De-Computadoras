@@ -5,3 +5,5 @@ Dejo una lista de reproduccion con los videos de las teorias: [Teorias Arqui](ht
   
  
 Ademas, les deje una carpeta con todos los resumenes que fueron pasando al grupo de wsp.
+
+Este blog esta bueno tambien para repasar algunas preguntas y respuestas de finales de arqui: [Blog de Fabian Martinez](https://data-engineer-fabian-martinez.vercel.app/blog/ac-final#clases)
